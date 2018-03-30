@@ -1,0 +1,26 @@
+{
+    "name": "vscode-icc-theme",
+    "displayName": "VSCode ICC Theme",
+    "description": "ICC Theme for VSCode",
+    "version": "1.0.0",
+    "publisher": "icatalina",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/icatalina/vscode-icc-theme.git"
+    },
+    "engines": {
+        "vscode": "^1.21.1"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ICC Light Theme",
+                "uiTheme": "vs",
+                "path": "./themes/icc-light-theme.json"
+            }
+        ]
+    }
+}
