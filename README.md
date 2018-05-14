@@ -2,7 +2,7 @@
 
 [Visual Studio Code](https://code.visualstudio.com/) Theme
 
-## screenshot
+## Screenshot
 
 ![screenshot](https://raw.githubusercontent.com/icatalina/vscode-icc-theme/master/screenshot.png)
 
