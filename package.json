@@ -8,6 +8,9 @@
         "type": "git",
         "url": "https://github.com/icatalina/vscode-icc-theme.git"
     },
+    "scripts": {
+      "preversion": "echo 'Edit the changelog and press a key when ready...' && read && git add CHANGELOG.md"
+    },
     "engines": {
         "vscode": "^1.21.1"
     },
