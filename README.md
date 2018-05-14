@@ -4,7 +4,8 @@
 
 ## Screenshot
 
-![screenshot](https://raw.githubusercontent.com/icatalina/vscode-icc-theme/master/screenshot.png)
+<img style="max-width: 1400px; width: 100%" src="https://raw.githubusercontent.com/icatalina/vscode-icc-theme/master/screenshot.png" />
+
 
 ## Installing
 
