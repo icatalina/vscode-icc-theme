@@ -1,5 +1,8 @@
 # Change Log
 
+## v1.0.4
+- Reduce the size of the screenshot
+
 ## v1.0.3
 - Minor documentation improvements
 
