@@ -1,5 +1,8 @@
 # Change Log
 
+## v1.0.5
+- Fix Visual Studio Marketplace link
+
 ## v1.0.4
 - Reduce the size of the screenshot
 
