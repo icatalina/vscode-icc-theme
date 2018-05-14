@@ -1,5 +1,8 @@
 # Change Log
 
+## v1.0.3
+- Minor documentation improvements
+
 ## v1.0.2
 - Improve README.md
 
