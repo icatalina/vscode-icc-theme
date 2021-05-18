@@ -54,7 +54,10 @@
     "editor.wordHighlightStrongBackground": "#f97c001e",
 
     "editor.selectionHighlightBackground": "#f4fadcaf",
-    "editor.selectionBackground": "#d4fabf"
+    "editor.selectionBackground": "#d4fabf",
+
+    "editorIndentGuide.activeBackground": "#9e9e9e4c",
+    "editorIndentGuide.background": "#9e9e9e1c"
   },
   "tokenColors": [
     {
