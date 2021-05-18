@@ -2,7 +2,7 @@
     "name": "vscode-icc-theme",
     "displayName": "VSCode ICC Theme",
     "description": "ICC Theme for VSCode",
-    "version": "1.0.5",
+    "version": "1.1.0",
     "publisher": "icatalina",
     "repository": {
         "type": "git",

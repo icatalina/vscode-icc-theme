@@ -1,5 +1,8 @@
 # Change Log
 
+## v1.1.0
+- Add colors for IndentGuides
+
 ## v1.0.5
 - Fix Visual Studio Marketplace link
 
