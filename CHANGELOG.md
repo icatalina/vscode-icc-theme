@@ -1,5 +1,8 @@
 # Change Log
 
+## v1.1.1
+- Fix color for focusHighlightForeground
+
 ## v1.1.0
 - Add colors for IndentGuides
 
